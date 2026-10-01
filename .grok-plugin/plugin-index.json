@@ -406,8 +406,8 @@
       }
     },
     "lifemaster": {
-      "sha": "3836cc337b7f16f0345acab1daeb66ee0dc8dac8",
-      "version": "0.1.0",
+      "sha": "66541e39000c6d3ac2c0eb7d8d0d0291545d1631",
+      "version": "0.1.1",
       "components": {
         "mcpServers": [
           {

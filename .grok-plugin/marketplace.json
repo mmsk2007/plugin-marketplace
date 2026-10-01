@@ -385,12 +385,12 @@
     },
     {
       "name": "lifemaster",
-      "description": "Manage LifeMaster tasks, projects, reminders, calendar and permitted native-agent actions with scoped OAuth access. Calls and external services require separate permission and finite limits.",
+      "description": "Manage LifeMaster tasks, projects, reminders, calendar and permitted native-agent actions with scoped OAuth access. Calls use native account entitlement and optional stricter caps; separate permissions apply.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/mmsk2007/lifemaster-mcp.git",
-        "sha": "3836cc337b7f16f0345acab1daeb66ee0dc8dac8"
+        "sha": "66541e39000c6d3ac2c0eb7d8d0d0291545d1631"
       },
       "homepage": "https://app.lifemaster.ai",
       "keywords": [
